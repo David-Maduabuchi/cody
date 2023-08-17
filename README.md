@@ -1,1 +1,1 @@
-# cody
+#This was created by Maduabuchi David Chinedu in partial fulfilment of the project he received on the website frontendmaster.io. He dedicated weeks and months to the completion of this project. For now, he is struggling with making the website responsive but he will get there. He will be rich and Successful.
