@@ -27,14 +27,19 @@ h1 {
     font-family: "Roboto", sans-serif;
     padding: 0;
     color: hsl(234, 29%, 20%);
+    margin: 20px 0 20px 0;
 }
 p {
+    margin: 20px 0 20px 0;
     color: hsl(234, 29%, 20%);
     font-weight: 400;
     font-family: "Roboto",'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .tick {
     margin-bottom: -5px;
+}
+.goal{
+    margin: 20px 0 20px 0;
 }
 .companyEmail {
     width: 80%;
@@ -59,7 +64,7 @@ section {
 }
 .spacing-the-label {
     padding: 5px;
-    margin: 5px;
+    margin: 10px 0 10px 0;
 }
 .input-control input:focus {
     outline: 0;
@@ -165,6 +170,9 @@ p {
     cursor: pointer;
     box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
 }
+.submitbutton {
+    margin: 20px 0 20px 0;
+}
 
 /* Media Queries */
 /* For Desktop View */
@@ -204,7 +212,7 @@ p {
         border-radius: 20px;
         row-gap: 10px;
         padding: 20px;
-        margin-left: 150px;
+        margin-left: 20px;
         font-size: 16px;
     }
     .rightHand {
@@ -234,3 +242,4 @@ p {
         font-size: 20px;
     }
 
+}
